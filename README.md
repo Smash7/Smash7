@@ -3,7 +3,7 @@
 ### 🤡 &nbsp;About Me
 
 - 💻 I am currently studying Machine Learning technologies;
-- 🌱 Learning Python, Cpp, Go; 
+- 🌱 Learning Python, Cpp, Go, Rust, Flutter; 
 - 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university.
 
 ---
