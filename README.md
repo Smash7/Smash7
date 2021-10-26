@@ -27,7 +27,7 @@
 
 
 ### 📫 &nbsp;Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Smash7)
+[![Telegram](https://img.shields.io/badge/Telegram-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Smash37)
 [![VK](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-2787F5?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id520732083)
 
 
