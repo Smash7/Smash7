@@ -2,8 +2,8 @@
 ## Hi there 👋 I am Eugene <img align="right" src="https://komarev.com/ghpvc/?username=Smash7&color=003153">
 ### 🤡 &nbsp;About Me
 
-- 💻 I am currently studying Machine Learning technologies;
-- 🌱 Learning Python, Cpp, Go, Rust, Flutter; 
+- 💻 I am currently studying Information Security;
+- 🌱 Learning Python, Flutter; 
 - 👨🏼‍💻 My specialty is ***Information systems and technologies*** at the university.
 
 ---
