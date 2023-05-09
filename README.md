@@ -24,8 +24,8 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Smash7&hide_border=true&theme=tokyonight&hide=prs,issues&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smash7&layout=compact&exclude_repo=Smash7.github.io&hide_border=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Smash7&hide_border=true&theme=radical&hide=prs,issues&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smash7&layout=compact&exclude_repo=Smash7.github.io&hide_border=true&theme=radical)
 
 
 
@@ -36,4 +36,4 @@
 
 
 ### 💛 &nbsp;My fav repos
-[![tgm-notifier](https://github-readme-stats.vercel.app/api/pin/?username=Smash7&repo=Lerning-Codecademy-Python&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&show_owner=true)](https://github.com/Smash7/Lerning-Codecademy-Python)
+[![tgm-notifier](https://github-readme-stats.vercel.app/api/pin/?username=Smash7&repo=Lerning-Codecademy-Python&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&show_owner=true)](https://github.com/Smash7/Lerning-Codecademy-Python)
